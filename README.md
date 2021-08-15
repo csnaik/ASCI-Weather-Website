@@ -13,9 +13,9 @@ API  from OpenWeather.org </p>
 We shall try to display different cities' data other than your location soon! </p>
 <h3 align="center"># Contributors:</h3>
 <p align="center">
-Anvita Mahajan
-Chinmay Naik
-Anika Chawla
+Anvita Mahajan ,
+Chinmay Naik ,
+Anika Chawla 
 </p>
 
 
